@@ -2,16 +2,16 @@
  A virtual voice assistance 
 
 
-the aim of the progect is to make vartual assistance.
+The aim of the progect is to make vartual assistance.
 
 
 
 Breakdown:
-easy to downlowad, easy to use
+Easy to downlowad, easy to use
 
 
 
-technologies:
+Technologies:
   speech recognition.
   some synthesis.
   AI
